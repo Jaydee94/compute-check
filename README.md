@@ -1,7 +1,7 @@
 # Controller to check usage of resource quota in a kubernetes cluster
 
 <p align="center">
-  <img src="docs/logo/compute-check-logo.png">
+  <img src="docs/logo/compute-check-logo.jpg">
 </p>
 
 ## Description
