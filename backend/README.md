@@ -6,4 +6,4 @@
 
 ## Description
 
-This is the backend of compute-check.
+This is the backend of compute-check. It provides a REST-API for the Web-UI.
